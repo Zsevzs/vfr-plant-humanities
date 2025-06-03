@@ -6,8 +6,12 @@ height=100
 author="Hannah Hardenbergh & Mike Mikels"
 layout="vertical">
 
+### Introduction
+
+Here is some text.
+
 <param ve-image 
-src="wc:Larix_sibirica_with_golden_foliage.jpg">
-caption="A tree"
+	src="wc:Larix_sibirica_with_golden_foliage.jpg"> 
+	caption="A tree"
 
 
