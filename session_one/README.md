@@ -6,3 +6,8 @@ height=100
 author="Hannah Hardenbergh & Mike Mikels"
 layout="vertical">
 
+<param ve-image 
+src="wc:Larix_sibirica_with_golden_foliage.jpg">
+caption="A tree"
+
+
